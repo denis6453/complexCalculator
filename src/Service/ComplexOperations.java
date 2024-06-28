@@ -1,6 +1,6 @@
 package Service;
 
-import Models.ComplexNumber;
+import Model.ComplexNumber;
 
 public interface ComplexOperations {
     <T extends ComplexNumber> ComplexNumber sum(T a, T b);

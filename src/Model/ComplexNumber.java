@@ -1,4 +1,4 @@
-package Models;
+package Model;
 
 public class ComplexNumber {
     private final double real;
