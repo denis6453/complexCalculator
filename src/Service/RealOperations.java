@@ -1,6 +1,6 @@
 package Service;
 
-public interface MathOperations {
+public interface RealOperations {
 
     double sum(double a, double b);
 

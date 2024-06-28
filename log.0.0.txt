@@ -1,0 +1,136 @@
+июн. 28, 2024 11:59:38 AM Main main
+INFO: приложение стартовало
+июн. 28, 2024 12:18:35 PM Main main
+INFO: приложение стартовало
+июн. 28, 2024 12:18:35 PM Service.ComplexNumberService sum
+INFO: Сумма (ComplexNumber{1.0 + i2.0} + ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:18:35 PM Service.ComplexNumberService sum
+INFO: 1.0 + 3.0 = 4.0
+июн. 28, 2024 12:18:35 PM Service.ComplexNumberService sum
+INFO: 2.0 + 4.0 = 6.0
+июн. 28, 2024 12:18:35 PM Service.ComplexNumberService sum
+INFO: 4.0 + 6.0 = 10.0
+июн. 28, 2024 12:18:35 PM Service.ComplexNumberService sum
+INFO: 9.0 + 16.0 = 25.0
+июн. 28, 2024 12:18:35 PM Service.ComplexNumberService sum
+INFO: 3.0 + 8.0 = 11.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService sum
+INFO: Сумма (ComplexNumber{1.0 + i2.0} + ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService sum
+INFO: 1.0 + 3.0 = 4.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService sum
+INFO: 2.0 + 4.0 = 6.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService multiply
+INFO: Умножение (ComplexNumber{1.0 + i2.0} * ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService multiply
+INFO: 1.0 * 3.0 = 3.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService multiply
+INFO: 2.0 * 4.0 = 8.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService subtract
+INFO: 3.0 - 8.0 = -5.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService multiply
+INFO: 1.0 * 4.0 = 4.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService multiply
+INFO: 2.0 * 3.0 = 6.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService sum
+INFO: 4.0 + 6.0 = 10.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService divide
+INFO: Деление (ComplexNumber{1.0 + i2.0} / ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService multiply
+INFO: 3.0 * 3.0 = 9.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService multiply
+INFO: 4.0 * 4.0 = 16.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService sum
+INFO: 9.0 + 16.0 = 25.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService multiply
+INFO: 1.0 * 3.0 = 3.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService multiply
+INFO: 2.0 * 4.0 = 8.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService sum
+INFO: 3.0 + 8.0 = 11.0
+июн. 28, 2024 12:21:12 PM Service.ComplexNumberService divide
+INFO: 11.0 / 25.0 = 0.44
+июн. 28, 2024 12:33:11 PM Service.ComplexNumberService sum
+INFO: Сумма (ComplexNumber{1.0 + i2.0} + ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:33:11 PM Service.ComplexNumberService sum
+INFO: 1.0 + 3.0 = 4.0
+июн. 28, 2024 12:33:11 PM Service.ComplexNumberService sum
+INFO: 2.0 + 4.0 = 6.0
+июн. 28, 2024 12:34:39 PM Service.ComplexNumberService multiply
+INFO: Умножение (ComplexNumber{1.0 + i2.0} * ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:34:39 PM Service.ComplexNumberService multiply
+INFO: 1.0 * 3.0 = 3.0
+июн. 28, 2024 12:34:39 PM Service.ComplexNumberService multiply
+INFO: 2.0 * 4.0 = 8.0
+июн. 28, 2024 12:34:39 PM Service.ComplexNumberService subtract
+INFO: 3.0 - 8.0 = -5.0
+июн. 28, 2024 12:34:39 PM Service.ComplexNumberService multiply
+INFO: 1.0 * 4.0 = 4.0
+июн. 28, 2024 12:34:39 PM Service.ComplexNumberService multiply
+INFO: 2.0 * 3.0 = 6.0
+июн. 28, 2024 12:34:39 PM Service.ComplexNumberService sum
+INFO: 4.0 + 6.0 = 10.0
+июн. 28, 2024 12:34:48 PM Service.ComplexNumberService divide
+INFO: Деление (ComplexNumber{1.0 + i2.0} / ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:34:48 PM Service.ComplexNumberService multiply
+INFO: 3.0 * 3.0 = 9.0
+июн. 28, 2024 12:34:48 PM Service.ComplexNumberService multiply
+INFO: 4.0 * 4.0 = 16.0
+июн. 28, 2024 12:34:48 PM Service.ComplexNumberService sum
+INFO: 9.0 + 16.0 = 25.0
+июн. 28, 2024 12:34:48 PM Service.ComplexNumberService multiply
+INFO: 1.0 * 3.0 = 3.0
+июн. 28, 2024 12:34:48 PM Service.ComplexNumberService multiply
+INFO: 2.0 * 4.0 = 8.0
+июн. 28, 2024 12:34:48 PM Service.ComplexNumberService sum
+INFO: 3.0 + 8.0 = 11.0
+июн. 28, 2024 12:34:48 PM Service.ComplexNumberService divide
+INFO: 11.0 / 25.0 = 0.44
+июн. 28, 2024 12:40:50 PM Service.ComplexNumberService sum
+INFO: Сумма (ComplexNumber{1.0 + i2.0} + ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:40:50 PM Service.ComplexNumberService sum
+INFO: 1.0 + 3.0 = 4.0
+июн. 28, 2024 12:40:50 PM Service.ComplexNumberService sum
+INFO: 2.0 + 4.0 = 6.0
+июн. 28, 2024 12:40:58 PM Service.ComplexNumberService multiply
+INFO: Умножение (ComplexNumber{1.0 + i2.0} * ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:40:58 PM Service.ComplexNumberService multiply
+INFO: 1.0 * 3.0 = 3.0
+июн. 28, 2024 12:40:58 PM Service.ComplexNumberService multiply
+INFO: 2.0 * 4.0 = 8.0
+июн. 28, 2024 12:40:58 PM Service.ComplexNumberService subtract
+INFO: 3.0 - 8.0 = -5.0
+июн. 28, 2024 12:40:58 PM Service.ComplexNumberService multiply
+INFO: 1.0 * 4.0 = 4.0
+июн. 28, 2024 12:40:58 PM Service.ComplexNumberService multiply
+INFO: 2.0 * 3.0 = 6.0
+июн. 28, 2024 12:40:58 PM Service.ComplexNumberService sum
+INFO: 4.0 + 6.0 = 10.0
+июн. 28, 2024 12:41:07 PM Service.ComplexNumberService divide
+INFO: Деление (ComplexNumber{1.0 + i2.0} / ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:41:07 PM Service.ComplexNumberService multiply
+INFO: 3.0 * 3.0 = 9.0
+июн. 28, 2024 12:41:07 PM Service.ComplexNumberService multiply
+INFO: 4.0 * 4.0 = 16.0
+июн. 28, 2024 12:41:07 PM Service.ComplexNumberService sum
+INFO: 9.0 + 16.0 = 25.0
+июн. 28, 2024 12:41:07 PM Service.ComplexNumberService multiply
+INFO: 1.0 * 3.0 = 3.0
+июн. 28, 2024 12:41:07 PM Service.ComplexNumberService multiply
+INFO: 2.0 * 4.0 = 8.0
+июн. 28, 2024 12:41:07 PM Service.ComplexNumberService sum
+INFO: 3.0 + 8.0 = 11.0
+июн. 28, 2024 12:41:07 PM Service.ComplexNumberService divide
+INFO: 11.0 / 25.0 = 0.44
+июн. 28, 2024 12:43:36 PM Service.ComplexNumberService sum
+INFO: Сумма (ComplexNumber{1.0 + i2.0} + ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:43:36 PM Service.ComplexNumberService sum
+INFO: 1.0 + 3.0 = 4.0
+июн. 28, 2024 12:43:36 PM Service.ComplexNumberService sum
+INFO: 2.0 + 4.0 = 6.0
+июн. 28, 2024 12:45:22 PM Service.ComplexNumberService sum
+INFO: Сумма (ComplexNumber{1.0 + i2.0} + ComplexNumber{3.0 + i4.0})
+июн. 28, 2024 12:45:22 PM Service.ComplexNumberService sum
+INFO: 1.0 + 3.0 = 4.0
+июн. 28, 2024 12:45:22 PM Service.ComplexNumberService sum
+INFO: 2.0 + 4.0 = 6.0
